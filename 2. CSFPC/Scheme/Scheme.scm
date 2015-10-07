@@ -91,3 +91,5 @@
         (else (cons (car st) (cdr (cdr st))))
   )
 )
+//I hate niggers.
+//lel
